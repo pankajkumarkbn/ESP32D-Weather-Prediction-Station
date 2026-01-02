@@ -1,5 +1,5 @@
 /************************************************************
-   ESP32 38-pin Weather Prediction Station (BMP280 version)
+   ESP32D 38-pin Weather Prediction Station (BMP280 version)
    Sensors: DHT11, BMP280, MQ135
    Display: 0.9" SSD1306 OLED, SPI (U8g2)
 
